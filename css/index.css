@@ -1,0 +1,24 @@
+body,
+html {
+  margin: 0;
+  height: 100%;
+}
+
+h1 {
+color: red;
+font-style: italic;
+}
+
+ul {
+  list-style-type: none;
+}
+ul li {
+  display: inline-block;
+}
+
+section {
+  padding: 100px 0;
+  h1 {
+  color: red;
+  font-style: italic;
+}
